@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
 
 :root{
-    --corprincipal: #873c73;
+    --corprincipal: #1736a5;
     --corsegundaria:#caf9ff;
-    --cortitulo:#7c0160;
+    --cortitulo:#726efe;
 }
 
 body{
@@ -73,7 +73,7 @@ body{
 
 #output h2{
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     color: var(--cortitulo);
 }
 
