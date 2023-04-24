@@ -29,7 +29,7 @@ body{
 }
 
 .cabecalho img{
-    max-width:70px;
+    max-width:200px;
     max-height:70px;
     width: auto;
     height: auto;
@@ -50,7 +50,7 @@ body{
     width: 345px;
     height: 330px;
     font-size: 20px;
-    color: var(--cortitulo);
+    color: var(--#312d3a);
     background: transparent;
     box-shadow: none;
     border: none;
@@ -66,10 +66,11 @@ body{
     flex-direction: column;
     border: 3px solid var(--cortitulo);
     border-radius: 20px;
-    width: 350px;
+    width: 300px;
     height: 400px;
-    margin-right: 3%;
+    margin-right: 0.0%;
 }
+
 
 #output h2{
     text-align: center;
@@ -131,6 +132,9 @@ body{
 .rodape h3{
     font-size: 16px;
 }
+.cp-text{ 
+    color: rgba(0,0,0,.7); 
+    text-shadow: 0 1px rgba(255, 255, 255, 0.1);}
 
 .icons ion-icon{
     width: 25px;
